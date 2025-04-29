@@ -1,0 +1,15 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Java build files
+target/
+out/
+*.class
+
+# Dependency directories
+/lib/
+
+# Other
+*.log
+*.DS_Store
